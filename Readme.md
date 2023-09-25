@@ -81,7 +81,14 @@ source : https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attritio
 
 --- 
 
-
+## Machine Learning Algorithms Used
+1. Logistic Regression
+2. Random Forest Classifier
+3. XGBoost Classifier
+4. Naive Bayes Classifier
+5. K Nearest Neighbors
+6. Support Vector Classifier
+7. CatBoost Classifier
 
 
 
